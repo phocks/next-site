@@ -31,7 +31,7 @@
     "@next/bundle-analyzer": "8.1.0",
     "@next/mdx": "8.1.0",
     "@reach/skip-nav": "0.1.2",
-    "airtable": "0.7.0",
+    "airtable": "0.10.1",
     "babel-plugin-module-resolver": "^3.1.1",
     "classnames": "^2.2.6",
     "cookie": "0.4.0",
